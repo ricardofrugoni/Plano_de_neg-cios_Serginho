@@ -211,6 +211,12 @@ function selectMonth(month) {
 function updateMetrics() {
     const data = businessData[currentMonth - 1];
     
+    // Debug para o mês 12
+    if (currentMonth === 12) {
+        console.log('Mês 12 - Dados carregados:', data);
+        console.log('Novas placas:', data.novasPlacas);
+    }
+    
     // Calcular informações detalhadas
     const faturamentoInfo = `${data.placasFinais.toLocaleString('pt-BR')} placas × R$ 250,00`;
     
