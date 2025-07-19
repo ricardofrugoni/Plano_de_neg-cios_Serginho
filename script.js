@@ -157,16 +157,16 @@ const businessData = [
     {
         month: 12,
         placasInicio: 23122,
-        novasPlacas: 0,
-        churn: 1122,
-        placasFinais: 22000,
-        faturamentoBruto: 5500000,
-        qtdSinistros: 220,
-        custoSinistros: 1650000,
-        faturamentoLiquido: 3850000,
-        ticketMedioSinistro: 7500,
-        crescimentoLiquido: -1122,
-        analysis: "🎯 <strong>MÊS 12 - META EXATA ALCANÇADA!</strong><br><br>Ajuste final resulta em exatos 22.000 placas ativas - 110% da meta original! Faturamento bruto de R$ 5.500.000 fecha o ano com chave de ouro. Estratégia conservadora executada com perfeição.<br><br>🏁 <strong>MISSÃO CUMPRIDA:</strong><br>• 22.000 placas ativas finais (2.000 acima da meta)<br>• 220 sinistros (operação madura e eficiente)<br>• Faturamento líquido: R$ 3.850.000<br>• Ticket sinistro: R$ 7.500 (precisão matemática)<br><br>🏆 <strong>RESULTADO FINAL:</strong><br>Plano de negócio executado com sucesso! Meta de 20.000 placas não apenas alcançada, mas superada em 10%. Base sólida estabelecida para expansão futura."
+        novasPlacas: 2966,
+        churn: 1156,
+        placasFinais: 24932,
+        faturamentoBruto: 6233000,
+        qtdSinistros: 249,
+        custoSinistros: 1869900,
+        faturamentoLiquido: 4363100,
+        ticketMedioSinistro: 7510,
+        crescimentoLiquido: 1810,
+        analysis: "🚀 <strong>MÊS 12 - CRESCIMENTO CONTÍNUO!</strong><br><br>Crescimento sustentável resulta em 24.932 placas ativas - 125% da meta original! Faturamento bruto de R$ 6.233.000 confirma a robustez operacional. Com 2.966 novas aquisições e churn controlado de 5%, o modelo demonstra consistência e escalabilidade excepcionais.<br><br>🏆 <strong>OPERAÇÃO MADURA:</strong><br>• 2.966 novas placas (crescimento natural)<br>• 249 sinistros processados (1% da base)<br>• Faturamento líquido: R$ 4.363.100<br>• Ticket sinistro: R$ 7.510 (estabilidade)<br><br>💡 <strong>LIÇÃO APRENDIDA:</strong><br>Meta superada não significa parar de crescer! Operação mantém ritmo normal estabelecendo base sólida para expansão futura. Metas são pisos, não tetos!"
     }
 ];
 
@@ -211,11 +211,9 @@ function selectMonth(month) {
 function updateMetrics() {
     const data = businessData[currentMonth - 1];
     
-    // Debug para o mês 12
-    if (currentMonth === 12) {
-        console.log('Mês 12 - Dados carregados:', data);
-        console.log('Novas placas:', data.novasPlacas);
-    }
+    // Debug para verificar dados
+    console.log(`Mês ${currentMonth} - Dados:`, data);
+    console.log(`Novas placas: ${data.novasPlacas}`);
     
     // Calcular informações detalhadas
     const faturamentoInfo = `${data.placasFinais.toLocaleString('pt-BR')} placas × R$ 250,00`;
@@ -506,6 +504,12 @@ function initializeGrowthChart() {
     });
 }
 
+// Atualizar Análise
+function updateAnalysis() {
+    const data = businessData[currentMonth - 1];
+    
+    document.getElementById('current-month-title').textContent = `Mês ${data.month} - Análise Detalhada`;
+    document.getElementById('freq-sinistro').textContent = '1%';
 // Atualizar Análise
 function updateAnalysis() {
     const data = businessData[currentMonth - 1];
