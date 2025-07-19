@@ -12,7 +12,7 @@ const businessData = [
         faturamentoLiquido: 368375,
         ticketMedioSinistro: 7518,
         crescimentoLiquido: 2105,
-        analysis: "Início da operação com 2.105 placas ativas. Estratégia conservadora estabelece base sólida para crescimento sustentável. Faturamento de R$ 526.250 com sinistralidade controlada em 30%."
+        analysis: "🚀 <strong>MÊS 1 - LANÇAMENTO ESTRATÉGICO</strong><br><br>Início da operação com 2.105 placas ativas. Estratégia conservadora estabelece base sólida para crescimento sustentável. Faturamento de R$ 526.250 com sinistralidade controlada em 30%.<br><br>📊 <strong>Indicadores-Chave:</strong><br>• Ticket médio de R$ 250 mantido conforme planejado<br>• Frequência de sinistro de 1% da base (21 ocorrências)<br>• Custo médio por sinistro: R$ 7.518<br>• Margem líquida: 70% após sinistros<br><br>✅ <strong>Fundação Sólida:</strong><br>Base inicial estabelecida com precificação conservadora, permitindo crescimento controlado nos próximos meses. Sinistralidade dentro do esperado demonstra viabilidade do modelo."
     },
     {
         month: 2,
@@ -26,7 +26,7 @@ const businessData = [
         faturamentoLiquido: 736925,
         ticketMedioSinistro: 7518,
         crescimentoLiquido: 2106,
-        analysis: "Dobra da base ativa para 4.211 placas. Faturamento passa de R$ 526K para R$ 1.053K (+100%). Churn de 5% controlado, demonstrando satisfação inicial dos clientes."
+        analysis: "📈 <strong>MÊS 2 - CONSOLIDAÇÃO DO CRESCIMENTO</strong><br><br>Dobra da base ativa para 4.211 placas. Faturamento passa de R$ 526K para R$ 1.053K (+100%). Churn de 5% controlado, demonstrando satisfação inicial dos clientes.<br><br>🎯 <strong>Performance Destacada:</strong><br>• Crescimento líquido de 2.106 placas<br>• Sinistralidade mantida em 30% (disciplina operacional)<br>• Faturamento líquido cresce para R$ 736.925<br>• Ticket médio de sinistro estável: R$ 7.518<br><br>💡 <strong>Momentum Positivo:</strong><br>Crescimento acelerado sem deterioração da qualidade. Base sólida permite aumento da velocidade de aquisição nos próximos ciclos."
     },
     {
         month: 3,
@@ -40,7 +40,7 @@ const businessData = [
         faturamentoLiquido: 1106175,
         ticketMedioSinistro: 7525,
         crescimentoLiquido: 2110,
-        analysis: "Base atinge 6.321 placas (+50% vs mês anterior). Faturamento bruto de R$ 1.580.250 confirma trajetória ascendente. Sinistralidade controlada demonstra maturidade operacional."
+        analysis: "🔥 <strong>MÊS 3 - ACELERAÇÃO SUSTENTÁVEL</strong><br><br>Base atinge 6.321 placas (+50% vs mês anterior). Faturamento bruto de R$ 1.580.250 confirma trajetória ascendente. Sinistralidade controlada demonstra maturidade operacional.<br><br>🚀 <strong>Escalabilidade Comprovada:</strong><br>• Crescimento líquido mantido em 2.110 placas<br>• 63 sinistros processados eficientemente<br>• Faturamento líquido: R$ 1.106.175<br>• Ticket médio sinistro: R$ 7.525 (estabilidade)<br><br>✅ <strong>Modelo Validado:</strong><br>Terceiro mês consecutivo de crescimento sólido. Operação demonstra capacidade de escalar mantendo qualidade e controle de custos."
     },
     {
         month: 4,
@@ -54,7 +54,7 @@ const businessData = [
         faturamentoLiquido: 1477350,
         ticketMedioSinistro: 7537,
         crescimentoLiquido: 2121,
-        analysis: "Base supera 8.000 placas ativas (8.442). Faturamento bruto atinge R$ 2.110.500, consolidando crescimento de 33% mensal. Churn de 5% dentro do planejado."
+        analysis: "💪 <strong>MÊS 4 - FORÇA OPERACIONAL</strong><br><br>Base supera 8.000 placas ativas (8.442). Faturamento bruto atinge R$ 2.110.500, consolidando crescimento de 33% mensal. Churn de 5% dentro do planejado.<br><br>⚡ <strong>Operação em Pleno Vapor:</strong><br>• 2.437 novas aquisições no mês<br>• 84 sinistros gerenciados (1% da base)<br>• Faturamento líquido: R$ 1.477.350<br>• Ticket sinistro: R$ 7.537 (consistência)<br><br>🎯 <strong>Meta Intermediária:</strong><br>42% da meta final (20.000 placas) alcançada em apenas 4 meses. Ritmo permite antecipação da meta ou aumento do target."
     },
     {
         month: 5,
@@ -68,7 +68,7 @@ const businessData = [
         faturamentoLiquido: 1851150,
         ticketMedioSinistro: 7484,
         crescimentoLiquido: 2136,
-        analysis: "Base supera 10.000 placas ativas (10.578)! Faturamento bruto de R$ 2.644.500 marca novo patamar. Crescimento líquido acelera para 2.136 placas."
+        analysis: "🌟 <strong>MÊS 5 - MARCO DOS 10.000</strong><br><br>Base supera 10.000 placas ativas (10.578)! Faturamento bruto de R$ 2.644.500 marca novo patamar. Crescimento líquido acelera para 2.136 placas.<br><br>🏆 <strong>Milestone Conquistado:</strong><br>• 10.578 placas ativas (53% da meta final)<br>• 106 sinistros (operação madura)<br>• Faturamento líquido: R$ 1.851.150<br>• Ticket sinistro: R$ 7.484 (otimização)<br><br>🚀 <strong>Momento de Inflexão:</strong><br>Ultrapassar 10.000 placas é marco psicológico importante. Base robusta permite aceleração final rumo aos 20.000."
     },
     {
         month: 6,
@@ -82,7 +82,7 @@ const businessData = [
         faturamentoLiquido: 2228450,
         ticketMedioSinistro: 7520,
         crescimentoLiquido: 2156,
-        analysis: "Base atinge 12.734 placas (64% da meta). Faturamento bruto de R$ 3.183.500 demonstra solidez financeira. Crescimento líquido de 2.156 placas mantém aceleração."
+        analysis: "📊 <strong>MÊS 6 - METADE DO CAMINHO</strong><br><br>Base atinge 12.734 placas (64% da meta). Faturamento bruto de R$ 3.183.500 demonstra solidez financeira. Crescimento líquido de 2.156 placas mantém aceleração.<br><br>💼 <strong>Consolidação Robusta:</strong><br>• 2.685 novas aquisições (recorde até aqui)<br>• 127 sinistros processados eficientemente<br>• Faturamento líquido: R$ 2.228.450<br>• Estabilidade no ticket médio: R$ 7.520<br><br>🎯 <strong>Reta Final à Vista:</strong><br>Duas terças partes da meta cumpridas. Últimos 6 meses focarão em otimização e sprint final para os 20.000."
     },
     {
         month: 7,
@@ -96,7 +96,7 @@ const businessData = [
         faturamentoLiquido: 2610650,
         ticketMedioSinistro: 7510,
         crescimentoLiquido: 2184,
-        analysis: "Base atinge 14.918 placas (75% da meta). Faturamento bruto supera R$ 3.7 milhões. Crescimento líquido acelera para 2.184 placas, preparando sprint final."
+        analysis: "🚀 <strong>MÊS 7 - ACELERAÇÃO FINAL</strong><br><br>Base atinge 14.918 placas (75% da meta). Faturamento bruto supera R$ 3.7 milhões. Crescimento líquido acelera para 2.184 placas, preparando sprint final.<br><br>⚡ <strong>Ritmo Intensificado:</strong><br>• 2.821 novas aquisições (novo recorde)<br>• 149 sinistros (escala crescente bem gerenciada)<br>• Faturamento líquido: R$ 2.610.650<br>• Ticket sinistro: R$ 7.510 (controle excepcional)<br><br>🎯 <strong>Reta Final Ativada:</strong><br>Últimos 5 meses para conquistar 5.082 placas restantes. Momentum forte indica meta facilmente alcançável."
     },
     {
         month: 8,
@@ -110,7 +110,7 @@ const businessData = [
         faturamentoLiquido: 2999325,
         ticketMedioSinistro: 7517,
         crescimentoLiquido: 2221,
-        analysis: "Base explode para 17.139 placas (86% da meta). Faturamento bruto de R$ 4.284.750 confirma escalabilidade. Crescimento líquido de 2.221 placas demonstra força total."
+        analysis: "💥 <strong>MÊS 8 - MOMENTUM IMPARÁVEL</strong><br><br>Base explode para 17.139 placas (86% da meta). Faturamento bruto de R$ 4.284.750 confirma escalabilidade. Crescimento líquido de 2.221 placas demonstra força total.<br><br>🔥 <strong>Performance Excepcional:</strong><br>• 2.967 novas aquisições (recorde absoluto)<br>• 171 sinistros (operação de classe mundial)<br>• Faturamento líquido quase R$ 3 milhões<br>• Ticket sinistro: R$ 7.517 (precisão cirúrgica)<br><br>🏁 <strong>Reta Final:</strong><br>Apenas 2.861 placas para a meta de 20.000. Momentum atual permite superação da meta original."
     },
     {
         month: 9,
@@ -124,7 +124,7 @@ const businessData = [
         faturamentoLiquido: 3396050,
         ticketMedioSinistro: 7502,
         crescimentoLiquido: 2267,
-        analysis: "Base atinge 19.406 placas (97% da meta)! Faturamento bruto supera R$ 4.8 milhões. A apenas 594 placas da meta de 20.000 - praticamente conquistada!"
+        analysis: "🎯 <strong>MÊS 9 - QUASE LÁ!</strong><br><br>Base atinge 19.406 placas (97% da meta)! Faturamento bruto supera R$ 4.8 milhões. A apenas 594 placas da meta de 20.000 - praticamente conquistada!<br><br>🏆 <strong>Sucesso à Vista:</strong><br>• 3.124 novas aquisições (explosão final)<br>• 194 sinistros gerenciados com maestria<br>• Faturamento líquido: R$ 3.396.050<br>• Ticket sinistro: R$ 7.502 (excelência operacional)<br><br>🚀 <strong>Meta Praticamente Alcançada:</strong><br>Faltam apenas 594 placas! O mês 10 será de celebração e estabelecimento de novas metas ainda mais ambiciosas."
     },
     {
         month: 10,
@@ -138,7 +138,7 @@ const businessData = [
         faturamentoLiquido: 3802750,
         ticketMedioSinistro: 7511,
         crescimentoLiquido: 2324,
-        analysis: "Base explode para 21.730 placas - 108% da meta original! Faturamento bruto de R$ 5.432.500 coroa o sucesso. Crescimento líquido de 2.324 placas demonstra força total."
+        analysis: "🎉 <strong>MÊS 10 - META SUPERADA!</strong><br><br>Base explode para 21.730 placas - 108% da meta original! Faturamento bruto de R$ 5.432.500 coroa o sucesso. Crescimento líquido de 2.324 placas demonstra força total.<br><br>🏆 <strong>SUCESSO ABSOLUTO:</strong><br>• 21.730 placas (1.730 acima da meta!)<br>• 217 sinistros (operação de excelência)<br>• Faturamento líquido: R$ 3.802.750<br>• Ticket sinistro: R$ 7.511 (consistência impecável)<br><br>🚀 <strong>Novo Patamar:</strong><br>Meta não apenas alcançada, mas superada em 8,65%! Base para estabelecer metas ainda mais ambiciosas nos próximos ciclos."
     },
     {
         month: 11,
@@ -152,21 +152,21 @@ const businessData = [
         faturamentoLiquido: 4046350,
         ticketMedioSinistro: 7507,
         crescimentoLiquido: 1392,
-        analysis: "Base consolida em 23.122 placas. Faturamento bruto atinge R$ 5.780.500. Crescimento mais moderado (1.392 placas) reflete estratégia de otimização vs expansão acelerada."
+        analysis: "🔄 <strong>MÊS 11 - OTIMIZAÇÃO E CONSOLIDAÇÃO</strong><br><br>Base consolida em 23.122 placas. Faturamento bruto atinge R$ 5.780.500. Crescimento mais moderado (1.392 placas) reflete estratégia de otimização vs expansão acelerada.<br><br>⚖️ <strong>Equilibrio Estratégico:</strong><br>• 2.479 novas aquisições (ritmo sustentável)<br>• 231 sinistros (volume crescente bem controlado)<br>• Faturamento líquido: R$ 4.046.350<br>• Ticket sinistro: R$ 7.507 (estabilidade exemplar)<br><br>🎯 <strong>Preparação Final:</strong><br>Ajustes operacionais para atingir exatamente 20.000 placas ativas no mês 12, conforme planejamento original."
     },
     {
         month: 12,
         placasInicio: 23122,
-        novasPlacas: 2966,
-        churn: 1156,
-        placasFinais: 24932,
-        faturamentoBruto: 6233000,
-        qtdSinistros: 249,
-        custoSinistros: 1869900,
-        faturamentoLiquido: 4363100,
-        ticketMedioSinistro: 7510,
-        crescimentoLiquido: 1810,
-        analysis: "Crescimento sustentável resulta em 24.932 placas ativas - 125% da meta original! Faturamento bruto de R$ 6.233.000 confirma a robustez operacional. Com 2.966 novas aquisições e churn controlado de 5%, o modelo demonstra consistência e escalabilidade excepcionais."
+        novasPlacas: 0,
+        churn: 1122,
+        placasFinais: 22000,
+        faturamentoBruto: 5500000,
+        qtdSinistros: 220,
+        custoSinistros: 1650000,
+        faturamentoLiquido: 3850000,
+        ticketMedioSinistro: 7500,
+        crescimentoLiquido: -1122,
+        analysis: "🎯 <strong>MÊS 12 - META EXATA ALCANÇADA!</strong><br><br>Ajuste final resulta em exatos 22.000 placas ativas - 110% da meta original! Faturamento bruto de R$ 5.500.000 fecha o ano com chave de ouro. Estratégia conservadora executada com perfeição.<br><br>🏁 <strong>MISSÃO CUMPRIDA:</strong><br>• 22.000 placas ativas finais (2.000 acima da meta)<br>• 220 sinistros (operação madura e eficiente)<br>• Faturamento líquido: R$ 3.850.000<br>• Ticket sinistro: R$ 7.500 (precisão matemática)<br><br>🏆 <strong>RESULTADO FINAL:</strong><br>Plano de negócio executado com sucesso! Meta de 20.000 placas não apenas alcançada, mas superada em 10%. Base sólida estabelecida para expansão futura."
     }
 ];
 
@@ -210,6 +210,12 @@ function selectMonth(month) {
 // Atualizar Métricas
 function updateMetrics() {
     const data = businessData[currentMonth - 1];
+    
+    // Debug para o mês 12
+    if (currentMonth === 12) {
+        console.log('Mês 12 - Dados carregados:', data);
+        console.log('Novas placas:', data.novasPlacas);
+    }
     
     // Calcular informações detalhadas
     const faturamentoInfo = `${data.placasFinais.toLocaleString('pt-BR')} placas × R$ 250,00`;
@@ -277,7 +283,7 @@ function updateCharts() {
     if (growthChart) {
         growthChart.data.labels = monthData.map(d => `M${d.month}`);
         growthChart.data.datasets[0].data = monthData.map(d => d.placasFinais);
-        growthChart.data.datasets[1].data = monthData.map(d => d.qtdSinistros * 100);
+        growthChart.data.datasets[1].data = monthData.map(d => d.qtdSinistros * 100); // Multiplicar por 100 para visualização
         growthChart.update('none');
     }
 }
